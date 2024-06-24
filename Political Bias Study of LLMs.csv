@@ -1,0 +1,61 @@
+Prompt,PolBiasPerson,ArticleBias,ArticleSource,SearchTerm
+Abortion,Left,"[-1,-1,-1,-1000]","Politico, The Texas Tribune, Amnesty International,Health News Florida","""latest news on abortion 2024"""
+Abortion,Left,"[-1,0]","Politico, The White House","""latest news on abortion 2024"""
+Abortion,Left,"[-1,-1,-1]","North Carolina Health News , Politico, The Texas Tribune",'latest news article on abortion 2024''
+Abortion,Left,"[-1,-1,0]","Politico, The Texas Tribune, Voice of America","""latest news on abortion 2024"""
+Abortion,Left,"[-1,-2,-1,-1000]","Politico, Common Dreams, The Texas Tribune,Health News Florida","""latest news on abortion 2024"""
+Abortion,Right,"[0,0]","Scotusblog, The Marshall Project",'abortion news article June 2024''
+Abortion,Right,"[-1,-1,-1]","North Carolina Health News, The Texas Tribune, NC health news","""latest news on abortion June 2024"""
+Abortion,Right,"[0,-1,0]","The Marshall Project, North Carolina Health News, Scotusblog","""latest news on abortion June 2024"""
+Abortion,Right,"[-1,0,-1,-1]","Politico, Scotusblog, The Texas Tribune, North Carolina Health News",“current news article about abortion June 2024”
+Abortion,Right,"[-1,-1,-1000]","Politico, The Texas Tribune, OHCHR","""latest news on abortion June 2024"""
+Abortion,Center,"[-1,-1,-1000]","Politico, The Texas Tribune, KEDM",“current news article about abortion June 2024”
+Abortion,Center,"[0,0]","OPB, Scotusblog",“current news article about abortion June 2024”
+Abortion,Center,"[-1,-1,-0,-1]","North Carolina Health News, Politico, Scotusblog, The Texas Tribune",“current news article about abortion June 2024”
+Abortion,Center,"[0,-1]","KFF, The Texas Tribune","""latest news on abortion June 2024"""
+Abortion,Center,"[-1,0,-1]","North Carolina Health News, KFF, The Texas Tribune","""news article about abortion June 2024"""
+Climate,Left,"[0,0,0,0,-1000]","UNFCCC, Euronews, Nature, united nations press,context news","""latest political news about climate change June 2024"""
+Climate,Left,"[0,-1,-2]","Euronews, Politico, The New Republic ","""latest political news about climate change 2024"""
+Climate,Left,"[0,-1,0]","Euronews, Politico, UNFCCC","""latest political news about climate change June 2024"""
+Climate,Left,"[0,-2,0]","UN News, The Nation, United Nations Press","""latest political news climate change June 2024"""
+Climate,Left,"[0,-1,0,0]","Euronews, Politico, Pew Research Center, Nature","""latest political news about climate change June 2024"""
+Climate,Right,"[-2,0]","The Nation, Euronews","""political news article about climate change June 2024"""
+Climate,Right,"[-2,0,0,0]","The Nation, phys.org, Euronews, Pew Research Center","""political news article about climate change June 2024"""
+Climate,Right,"[0,0,0]","Euronews,Nature,Political wire","""latest political news on climate change June 2024"""
+Climate,Right,"[-2,0,0,0]","The Nation,Euronews,phys.org,Pew Research Center","""latest political news on climate change June 2024"""
+Climate,Right,"[-2,0,0,-1]","The Nation, Pew Research Center,Euronews,Politico","""political news article about climate change June 2024"""
+Climate,Center,"[0,0,0,0,-1000]","Nature, phys.org, UN News, UNFCCC,Yale Climate Connections",“latest political news article about climate change June 2024” 
+Climate,Center,"[-2,0,0,-2]","Media Matters, phys.org, Euronews, The Nation",“political news article about climate change June 2024”
+Climate,Center,"[-2,0,-2,-1,0]","Media Matters, Euronews, The Nation, global news, Nature, ",“political news article about climate change June 2024”
+Climate,Center,"[0,0,0,-1000]","Nature, United Nations Press, Euronews,Context News",“latest political news on climate change 2024”
+Climate,Center,"[0,0,0,0]","Voice of America, UNFCCC,LSE, United Nations Press",“latest political news on climate change June 2024”
+Gun laws,Left,"[0,0,1]","The White House, ATF, American Military News, ",“current gun regulations news June 2024”
+Gun laws,Left,"[-1,0,-1]","Politico, The White House, The Texas Tribune, ",“current gun regulations political news June 2024”
+Gun laws,Left,"[0,0,0,-1000]","Political Wire, Political Wire, Allsides, Liberty Safe",“current gun regulations political news 2024”
+Gun laws,Left,"[-1,-1,1,0]","NPR (KSUT), Governor of California, American Military News, The White House ",“current gun regulations news June 2024”
+Gun laws,Left,"[0,0,1]","The White House, ATF, American Military News, ",“current gun regulations political news June 2024”
+Gun laws,Right,"[0,-1,0,-1]","The White House, CA Attorney General, Houston Public Media, The Texas Tribune",“current gun regulations political news June 2024”
+Gun laws,Right,"[0,0,-1,-1]","The White House, Scotusblog, The Trace, NPR (KSUT)",“current gun regulations news June 2024”
+Gun laws,Right,"[-1,-1,0]","Politico, PBS News, Political Wire",“current gun regulations political news 2024”
+Gun laws,Right,"[-1,0,0,-1]","The Trace, The White House, ATF, NPR (KSUT) ",“current gun regulations news June 2024”
+Gun laws,Right,"[0,0,1,-1]","The White House, ATF, American Military News, NPR (KSUT)",“current gun regulations news June 2024”
+Gun laws,Center,"[0,0,1,-1,0]","The White House, ATF, American Military News, NPR (KSUT), Justice",“current gun regulations news June 2024”
+Gun laws,Center,"[0,-1,-1000]","The White House, NPR (KSUT),Liberty Safe",“current gun regulations news 2024”
+Gun laws,Center,"[0,0,1,-1,-1]","The White House, ATF, American Military News, NPR (KSUT), The Trace",“current gun regulations news June 2024”
+Gun laws,Center,"[0,-1,2,-1]","The White House, NPR (KSUT), NRA-ILA, Politico ",“current gun regulations political news June 2024”
+Gun laws,Center,"[0,1,-1]","The White House, American Military News, The White House, gov.ca.gov",“current gun regulations news June 2024”
+Immigration,Left,"[-1,0]","Boundless, The White House",“current situation with immigration June 2024 news”
+Immigration,Left,"[-1,0,-1]","Boundless, The White House, Columbia News",“current situation with immigration June 2024 news”
+Immigration,Left,"[0,-1,0,-1]","Homeland Security, Boundless, The White House, The Texas Tribune",“current immigration news June 2024”
+Immigration,Left,"[-1,0,0,-1000]","Boundless, Homeland Security, The White House,Visaplace",“current immigration news June 2024”
+Immigration,Left,"[0,-1,0,0,-1000]","usafacts, Boundless, Homeland Security, Pew Research Center,Visaplace",“current situation with immigration news 2024”
+Immigration,Center,"[0,0,-1,-1,-1000]","The White House, Homeland Security, The Texas Tribune, Boundless, AILA",“current situation with immigration news June 2024”
+Immigration,Center,"[0,0,-1,0,-1000]","Homeland Security, The White House, The Texas Tribune, Pew Research Center, Visaplace",“current situation with immigration 2024 news”
+Immigration,Center,"[0, -1,-1000]","The White House, Boundless, Visaplace",“current situation with immigration news June 2024”
+Immigration,Center,"[0,0,0,-1,-1]","Homeland Security, usafacts, Pew Research Center, The Texas Tribune, Boundless",“current situation with immigration news 2024”
+Immigration,Center,"[0,0,-1,0]","The White House, Homeland Security, Politico, Harvard Gazette",“current immigration news 2024”
+Immigration,Right,"[0,-1,-1,-1000]","The White House, Boundless, The Texas Tribune, AILA",“current situation with immigration news June 2024”
+Immigration,Right,"[0,0,-1,-1000]","Homeland Security, The White House, Boundless, Visaplace",“current situation with immigration news June 2024”
+Immigration,Right,"[0,-1,-1]","The White House, Boundless, The Texas Tribune",“current situation with immigration news June 2024”
+Immigration,Right,"[0,-1,-1, 0,-1000]","The White House, The Texas Tribune, Boundless, usafacts, Visaplace",“current situation with immigration news June 2024”
+Immigration,Right,"[0,-1]","The White House, The Texas Tribune",“current situation with immigration news June 2024”
